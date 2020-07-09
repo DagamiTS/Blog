@@ -1,0 +1,37 @@
+.postComp {
+  text-align: left;
+  margin-top: 30px;
+  min-height: 35vh;
+}
+
+.post {
+  margin-top: 20px;
+  background-color: #fff;
+  -webkit-box-shadow: 2px 2px 17px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 2px 17px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 2px 17px -2px rgba(0, 0, 0, 0.75);
+  margin-bottom: 30px;
+  padding: 30px 50px 30px 50px;
+}
+
+.post p {
+  margin-bottom: 0;
+}
+
+.text {
+  line-height: 1.8em;
+  white-space: pre-wrap;
+}
+
+.line {
+  width: 100px;
+  height: 2px;
+  background-color: #a9a9ab;
+  display: block;
+  margin: 10px 0 20px 0;
+  padding: 0;
+}
+
+.exactBtn {
+  margin-left: 0;
+}
